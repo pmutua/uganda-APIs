@@ -1,350 +1,350 @@
 [{
-    "districts": [{
-            "id": "UG-314",
-            "name": "Abim",
-            "region": "North",
-            "size": "2346",
-            "size_units": "sq. kms",
-            "counties": [{
-                "name": "Labwor",
-                "sub_counties": [{
-                        "name": "Abim",
-                        "parishes": [{
-                                "name": "Atunga",
-                                "sub_parishes": [{
-                                        "name": "Oryotene",
-                                        "village": [{
-                                            "name": ""
-                                        }]
-                                    },
-                                    {
-                                        "name": "Apelkere",
-                                        "village": [{
-                                            "name": ""
-                                        }]
-                                    },
-                                    {
-                                        "name": "Atugo",
-                                        "village": [{
-                                            "name": ""
-                                        }]
-                                    },
-                                    {
-                                        "name": "Otalabar",
-                                        "village": [{
-                                            "name": ""
-                                        }]
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Kanu",
-                                "sub_parishes": [{
-                                    "name": "Kanu Health Centre II",
-                                    "village": [{
-                                        "name": ""
-                                    }]
-                                }]
-                            },
-                            {
-                                "name": "Arembwola",
-                                "sub_parishes": [{
-                                    "name": "Arembwola Pr. Sch",
-                                    "village": [{
-                                        "name": ""
-                                    }]
-                                }]
-                            },
-                            {
-                                "name": "Aninata",
-                                "sub_parishes": [{
-                                    "name": "Aninata Pr. Sch",
-                                    "village": [{
-                                        "name": ""
-                                    }]
-                                }]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Alerek",
-                        "parishes": [{
-                            "name": "",
-                            "sub_parishes": [{
-                                "name": "",
-                                "village": [{
-                                    "name": ""
-                                }]
-                            }]
-                        }]
-                    },
-                    {
-                        "name": "Lotukei",
-                        "parishes": [{
-                            "name": "",
-                            "sub_parishes": [{
-                                "name": "",
-                                "village": [{
-                                    "name": ""
-                                }]
-                            }]
-                        }]
-                    },
-                    {
-                        "name": "Morulem",
-                        "parishes": [{
-                            "name": "",
-                            "sub_parishes": [{
-                                "name": "",
-                                "village": [{
-                                    "name": ""
-                                }]
-                            }]
-                        }]
-                    },
-                    {
-                        "name": "Nyakwae",
-                        "parishes": [{
-                            "name": "",
-                            "sub_parishes": [{
-                                "name": "",
-                                "village": [{
-                                    "name": ""
-                                }]
-                            }]
-                        }]
-                    },
-                    {
-                        "name": "Abim Town Council",
-                        "parishes": [{
-                            "name": "",
-                            "sub_parishes": [{
-                                "name": "",
-                                "village": [{
-                                    "name": ""
-                                }]
-                            }]
-                        }]
-                    }
-                ]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-301",
-            "name": "Adjumani",
-            "region": "North",
-            "size": "2962",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-322",
-            "name": "Agago",
-            "region": "North",
-            "size": "3503",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-323",
-            "name": "Alebtong",
-            "region": "North",
-            "size": "1535",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-315",
-            "name": "Amolatar",
-            "region": "North",
-            "size": "1157",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-324",
-            "name": "Amudat",
-            "region": "North",
-            "size": "1626",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-216",
-            "name": "Amuria",
-            "region": "East",
-            "size": "2578",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-316",
-            "name": "Amuru",
-            "region": "North",
-            "size": "2578",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-302",
-            "name": "Apac",
-            "region": "North",
-            "size": "2947",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-        {
-            "id": "UG-303",
-            "name": "Arua",
-            "region": "North",
-            "size": "4343",
-            "size_units": "sq. kms",
-            "counties": [{
-                "id": "",
-                "name": "",
-                "sub_counties": [{
-                    "name": "",
-                    "parishes": [{
-                        "name": "",
-                        "sub_parishes": [{
-                            "name": "",
-                            "village": [{
-                                "name": ""
-                            }]
-                        }]
-                    }]
-                }]
-            }],
-            "townstatus": "false"
-        },
-    ]
+	"districts": [{
+			"id": "UG-314",
+			"name": "Abim",
+			"region": "North",
+			"size": "2346",
+			"size_units": "sq. kms",
+			"counties": [{
+				"name": "Labwor",
+				"sub_counties": [{
+						"name": "Abim",
+						"parishes": [{
+								"name": "Atunga",
+								"sub_parishes": [{
+										"name": "Oryotene",
+										"village": [{
+											"name": ""
+										}]
+									},
+									{
+										"name": "Apelkere",
+										"village": [{
+											"name": ""
+										}]
+									},
+									{
+										"name": "Atugo",
+										"village": [{
+											"name": ""
+										}]
+									},
+									{
+										"name": "Otalabar",
+										"village": [{
+											"name": ""
+										}]
+									}
+								]
+							},
+							{
+								"name": "Kanu",
+								"sub_parishes": [{
+									"name": "Kanu Health Centre II",
+									"village": [{
+										"name": ""
+									}]
+								}]
+							},
+							{
+								"name": "Arembwola",
+								"sub_parishes": [{
+									"name": "Arembwola Pr. Sch",
+									"village": [{
+										"name": ""
+									}]
+								}]
+							},
+							{
+								"name": "Aninata",
+								"sub_parishes": [{
+									"name": "Aninata Pr. Sch",
+									"village": [{
+										"name": ""
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"name": "Alerek",
+						"parishes": [{
+							"name": "",
+							"sub_parishes": [{
+								"name": "",
+								"village": [{
+									"name": ""
+								}]
+							}]
+						}]
+					},
+					{
+						"name": "Lotukei",
+						"parishes": [{
+							"name": "",
+							"sub_parishes": [{
+								"name": "",
+								"village": [{
+									"name": ""
+								}]
+							}]
+						}]
+					},
+					{
+						"name": "Morulem",
+						"parishes": [{
+							"name": "",
+							"sub_parishes": [{
+								"name": "",
+								"village": [{
+									"name": ""
+								}]
+							}]
+						}]
+					},
+					{
+						"name": "Nyakwae",
+						"parishes": [{
+							"name": "",
+							"sub_parishes": [{
+								"name": "",
+								"village": [{
+									"name": ""
+								}]
+							}]
+						}]
+					},
+					{
+						"name": "Abim Town Council",
+						"parishes": [{
+							"name": "",
+							"sub_parishes": [{
+								"name": "",
+								"village": [{
+									"name": ""
+								}]
+							}]
+						}]
+					}
+				]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-301",
+			"name": "Adjumani",
+			"region": "North",
+			"size": "2962",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-322",
+			"name": "Agago",
+			"region": "North",
+			"size": "3503",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-323",
+			"name": "Alebtong",
+			"region": "North",
+			"size": "1535",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-315",
+			"name": "Amolatar",
+			"region": "North",
+			"size": "1157",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-324",
+			"name": "Amudat",
+			"region": "North",
+			"size": "1626",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-216",
+			"name": "Amuria",
+			"region": "East",
+			"size": "2578",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-316",
+			"name": "Amuru",
+			"region": "North",
+			"size": "2578",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-302",
+			"name": "Apac",
+			"region": "North",
+			"size": "2947",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		},
+		{
+			"id": "UG-303",
+			"name": "Arua",
+			"region": "North",
+			"size": "4343",
+			"size_units": "sq. kms",
+			"counties": [{
+				"id": "",
+				"name": "",
+				"sub_counties": [{
+					"name": "",
+					"parishes": [{
+						"name": "",
+						"sub_parishes": [{
+							"name": "",
+							"village": [{
+								"name": ""
+							}]
+						}]
+					}]
+				}]
+			}],
+			"townstatus": "false"
+		}
+	]
 }]
