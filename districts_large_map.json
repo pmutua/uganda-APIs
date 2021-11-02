@@ -1,152 +1,44 @@
 [{
 	"districts": [{
 			"id": "UG-314",
-			"name": "Abim",
-			"region": "North",
+			"name": "ABIM",
+			"region": "LABWOR COUNTY",
 			"size": "2346",
 			"size_units": "sq. kms",
 			"counties": [{
-				"name": "Labwor",
+				"name": "LABWOR COUNTY",
 				"sub_counties": [{
-						"name": "Abim",
-						"parishes": [{
-								"name": "Atunga",
-								"sub_parishes": [{
-										"name": "Oryotene",
-										"village": [{
-											"name": ""
-										}]
-									},
-									{
-										"name": "Apelkere",
-										"village": [{
-											"name": ""
-										}]
-									},
-									{
-										"name": "Atugo",
-										"village": [{
-											"name": ""
-										}]
-									},
-									{
-										"name": "Otalabar",
-										"village": [{
-											"name": ""
-										}]
-									}
-								]
-							},
-							{
-								"name": "Kanu",
-								"sub_parishes": [{
-									"name": "Kanu Health Centre II",
-									"village": [{
-										"name": ""
-									}]
-								}]
-							},
-							{
-								"name": "Arembwola",
-								"sub_parishes": [{
-									"name": "Arembwola Pr. Sch",
-									"village": [{
-										"name": ""
-									}]
-								}]
-							},
-							{
-								"name": "Aninata",
-								"sub_parishes": [{
-									"name": "Aninata Pr. Sch",
-									"village": [{
-										"name": ""
-									}]
-								}]
-							}
-						]
-					},
-					{
-						"name": "Alerek",
-						"parishes": [{
-							"name": "",
-							"sub_parishes": [{
-								"name": "",
-								"village": [{
-									"name": ""
-								}]
+					"name": "MORULEM TOWN COUNCIL",
+					"parishes": [{
+						"name": "ANGOLEBWAL EAST",
+						"sub_parishes": [{
+							"name": "ANGOLEBWAL EAST",
+							"village": [{
+								"name": "OMORU CENTRAL"
 							}]
 						}]
-					},
-					{
-						"name": "Lotukei",
-						"parishes": [{
-							"name": "",
-							"sub_parishes": [{
-								"name": "",
-								"village": [{
-									"name": ""
-								}]
-							}]
-						}]
-					},
-					{
-						"name": "Morulem",
-						"parishes": [{
-							"name": "",
-							"sub_parishes": [{
-								"name": "",
-								"village": [{
-									"name": ""
-								}]
-							}]
-						}]
-					},
-					{
-						"name": "Nyakwae",
-						"parishes": [{
-							"name": "",
-							"sub_parishes": [{
-								"name": "",
-								"village": [{
-									"name": ""
-								}]
-							}]
-						}]
-					},
-					{
-						"name": "Abim Town Council",
-						"parishes": [{
-							"name": "",
-							"sub_parishes": [{
-								"name": "",
-								"village": [{
-									"name": ""
-								}]
-							}]
-						}]
-					}
-				]
+					}]
+				}]
 			}],
 			"townstatus": "false"
 		},
 		{
 			"id": "UG-301",
-			"name": "Adjumani",
+			"name": "Pader",
 			"region": "North",
 			"size": "2962",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "243",
+				"name": "ARUU NORTH COUNTY",
 				"sub_counties": [{
-					"name": "",
+					"name": "ACHOLI_BUR TOWN COUNCIL",
 					"parishes": [{
-						"name": "",
+						"name": "ACUMU WARD",
 						"sub_parishes": [{
-							"name": "",
+							"name": "ACUMU WARD",
 							"village": [{
-								"name": ""
+								"name": "TE OLET"
 							}]
 						}]
 					}]
@@ -156,21 +48,21 @@
 		},
 		{
 			"id": "UG-322",
-			"name": "Agago",
+			"name": "Otuke",
 			"region": "North",
 			"size": "3503",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "104",
+				"name": "Otuke",
 				"sub_counties": [{
-					"name": "",
+					"name": "OKWONGO TOWN COUNCIL",
 					"parishes": [{
-						"name": "",
+						"name": "OWANGOKADO WARD",
 						"sub_parishes": [{
-							"name": "",
+							"name": "OWANGOKADO WARD",
 							"village": [{
-								"name": ""
+								"name": "Tedam"
 							}]
 						}]
 					}]
@@ -180,21 +72,21 @@
 		},
 		{
 			"id": "UG-323",
-			"name": "Alebtong",
+			"name": "ABIM",
 			"region": "North",
 			"size": "1535",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "095",
+				"name": "LABWOR COUNTY",
 				"sub_counties": [{
-					"name": "",
+					"name": "MORULEM TOWN COUNCIL",
 					"parishes": [{
-						"name": "",
+						"name": "ANGOLEBWAL EAST",
 						"sub_parishes": [{
-							"name": "",
+							"name": "ANGOLEBWAL EAST",
 							"village": [{
-								"name": ""
+								"name": "OMORU CENTRAL"
 							}]
 						}]
 					}]
@@ -204,21 +96,21 @@
 		},
 		{
 			"id": "UG-315",
-			"name": "Amolatar",
-			"region": "North",
+			"name": "TEREGO",
+			"region": "West",
 			"size": "1157",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "011",
+				"name": "TEREGO WEST COUNTY",
 				"sub_counties": [{
-					"name": "",
+					"name": "LEJU TOWN COUNCIL",
 					"parishes": [{
-						"name": "",
+						"name": "OTREVU WARD",
 						"sub_parishes": [{
-							"name": "",
+							"name": "OTREVU WARD",
 							"village": [{
-								"name": ""
+								"name": "MALURE"
 							}]
 						}]
 					}]
@@ -228,21 +120,21 @@
 		},
 		{
 			"id": "UG-324",
-			"name": "Amudat",
+			"name": "KAABONG",
 			"region": "North",
 			"size": "1626",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "08",
+				"name": "DODOTH NORTH COUNTY",
 				"sub_counties": [{
-					"name": "",
+					"name": "KALAPATA TOWN COUNCIL",
 					"parishes": [{
-						"name": "",
+						"name": "NABONYIA WARD",
 						"sub_parishes": [{
-							"name": "",
+							"name": "NABONYIA WARD",
 							"village": [{
-								"name": ""
+								"name": "NABONYIA"
 							}]
 						}]
 					}]
@@ -252,21 +144,21 @@
 		},
 		{
 			"id": "UG-216",
-			"name": "Amuria",
+			"name": "SIRONKO",
 			"region": "East",
 			"size": "2578",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "98",
+				"name": "BUDADIRI COUNTY EAST",
 				"sub_counties": [{
-					"name": "",
+					"name": "MUTUFU TOWN COUNCIL",
 					"parishes": [{
-						"name": "",
+						"name": "MUTUFU TOWN COUNCIL",
 						"sub_parishes": [{
-							"name": "",
+							"name": "SOUTHERN WARD",
 							"village": [{
-								"name": ""
+								"name": "KIGOKYE"
 							}]
 						}]
 					}]
@@ -276,21 +168,21 @@
 		},
 		{
 			"id": "UG-316",
-			"name": "Amuru",
-			"region": "North",
+			"name": "LAMWO",
+			"region": "LAMWO COUNTY",
 			"size": "2578",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "08",
+				"name": "LAMWO COUNTY",
 				"sub_counties": [{
-					"name": "",
+					"name": "LOKUNG",
 					"parishes": [{
-						"name": "",
+						"name": "PAWOR",
 						"sub_parishes": [{
-							"name": "",
+							"name": "PAWOR",
 							"village": [{
-								"name": ""
+								"name": "NGOMONYA"
 							}]
 						}]
 					}]
@@ -300,21 +192,21 @@
 		},
 		{
 			"id": "UG-302",
-			"name": "Apac",
-			"region": "North",
+			"name": "OTUKE",
+			"region": "OTUKE COUNTY",
 			"size": "2947",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "90",
+				"name": "OTUKE COUNTY",
 				"sub_counties": [{
-					"name": "",
+					"name": "BARJOBI",
 					"parishes": [{
-						"name": "",
+						"name": "BARJOBI",
 						"sub_parishes": [{
-							"name": "",
+							"name": "OTONGERE A",
 							"village": [{
-								"name": ""
+								"name": "OTONGERE A"
 							}]
 						}]
 					}]
@@ -324,21 +216,21 @@
 		},
 		{
 			"id": "UG-303",
-			"name": "Arua",
+			"name": "LUUKA",
 			"region": "North",
 			"size": "4343",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "",
-				"name": "",
+				"id": "09",
+				"name": "LUUKA NORTH COUNTY",
 				"sub_counties": [{
-					"name": "",
+					"name": "BUKOOVA TOWN COUNCIL",
 					"parishes": [{
-						"name": "",
+						"name": "NAWANSEGA WARD",
 						"sub_parishes": [{
-							"name": "",
+							"name": "NAWANSEGA WARD",
 							"village": [{
-								"name": ""
+								"name": "LANDI ZONE"
 							}]
 						}]
 					}]
