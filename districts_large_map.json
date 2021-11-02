@@ -65,38 +65,68 @@
 		{
 			"id": "UG-322",
 			"name": "SIRONKO",
-			"region": "EAST",
+			"region": "SIRONKO",
 			"size": "3503",
 			"size_units": "sq. kms",
 			"counties": [{
-				"id": "104",
-				"name": "BUDADIRI COUNTY  WEST",
-				"sub_counties": [{
-						"name": "BUWASA",
-						"parishes": [{
-							"name": "BUKIMALI",
-							"sub_parishes": [{
-								"name": "LUSEKE",
-								"village": [{
-									"name": "LUSEKE"
+					"id": "104",
+					"name": "BUDADIRI COUNTY  WEST",
+					"sub_counties": [{
+							"name": "BUWASA",
+							"parishes": [{
+								"name": "BUKIMALI",
+								"sub_parishes": [{
+									"name": "LUSEKE",
+									"village": [{
+										"name": "LUSEKE"
+									}]
 								}]
 							}]
-						}]
-					},
-					{
-						"name": "BUGAMBI",
-						"parishes": [{
-							"name": "BUMALUNDA",
-							"sub_parishes": [{
-								"name": "MAJENGA",
-								"village": [{
-									"name": "MAJENGA"
+						},
+						{
+							"name": "BUGAMBI",
+							"parishes": [{
+								"name": "BUMALUNDA",
+								"sub_parishes": [{
+									"name": "MAJENGA",
+									"village": [{
+										"name": "MAJENGA"
+									}]
 								}]
 							}]
-						}]
-					}
-				]
-			}],
+						}
+					]
+				},
+				{
+					"id": "104",
+					"name": "BUDADIRI COUNTY  WEST",
+					"sub_counties": [{
+							"name": "BUGUSEGE TOWN COUNCIL",
+							"parishes": [{
+								"name": "BUGUSEGE WARD",
+								"sub_parishes": [{
+									"name": "LUBASO",
+									"village": [{
+										"name": "LUBASO"
+									}]
+								}]
+							}]
+						},
+						{
+							"name": "BUGAMBI",
+							"parishes": [{
+								"name": "BUMALUNDA",
+								"sub_parishes": [{
+									"name": "MAJENGA",
+									"village": [{
+										"name": "MAJENGA"
+									}]
+								}]
+							}]
+						}
+					]
+				}
+			],
 			"townstatus": "false"
 		},
 		{
@@ -107,7 +137,7 @@
 			"size_units": "sq. kms",
 			"counties": [{
 				"id": "095",
-				"name": "AGAGO NORTH COUNTY",
+				"name": "AGAGO COUNTY",
 				"sub_counties": [{
 						"name": "LAPONO",
 						"parishes": [{
@@ -349,23 +379,60 @@
 		{
 			"id": "UG-303",
 			"name": "LUUKA",
-			"region": "North",
+			"region": "South",
 			"size": "4343",
 			"size_units": "sq. kms",
 			"counties": [{
 				"id": "09",
-				"name": "LUUKA NORTH COUNTY",
+				"name": "LUUKA SOUTH COUNTY",
 				"sub_counties": [{
-					"name": "BUKOOVA TOWN COUNCIL",
+					"name": "NAWAMPITI",
 					"parishes": [{
-						"name": "NAWANSEGA WARD",
-						"sub_parishes": [{
-							"name": "NAWANSEGA WARD",
-							"village": [{
-								"name": "LANDI ZONE"
+							"name": "NAWANYAGO",
+							"sub_parishes": [{
+								"name": "BUGOBI",
+								"village": [{
+									"name": "BUGOBI"
+								}]
 							}]
-						}]
-					}]
+						},
+						{
+							"name": "BUGOMBA",
+							"sub_parishes": [{
+								"name": "BUGOMBA",
+								"village": [{
+									"name": "BUGOMBA"
+								}]
+							}]
+						},
+						{
+							"name": "BUGOMBA",
+							"sub_parishes": [{
+								"name": "BUWANDA",
+								"village": [{
+									"name": "BUWANDA"
+								}]
+							}]
+						},
+						{
+							"name": "BUYOOLA",
+							"sub_parishes": [{
+								"name": "BUYOOLA",
+								"village": [{
+									"name": "BUYOOLA"
+								}]
+							}]
+						},
+						{
+							"name": "BUYOOLA",
+							"sub_parishes": [{
+								"name": "IKONIA A",
+								"village": [{
+									"name": "IKONIA A"
+								}]
+							}]
+						}
+					]
 				}]
 			}],
 			"townstatus": "false"
