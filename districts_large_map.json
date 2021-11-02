@@ -1,41 +1,43 @@
 [{
-	"districts": [{
+    "districts": [
+        {
 			"id": "UG-314",
 			"name": "ABIM",
-			"region": "LABWOR COUNTY",
+			"region": "North",
 			"size": "2346",
 			"size_units": "sq. kms",
-			"counties": [{
-					"name": "LABWOR COUNTY",
-					"sub_counties": [{
-						"name": "MORULEM TOWN COUNCIL",
-						"parishes": [{
+			"counties": [
+                {
+				"name": "LABWOR COUNTY",
+				"sub_counties": [{
+					"name": "MORULEM TOWN COUNCIL",
+					"parishes": [{
+						"name": "ANGOLEBWAL EAST",
+						"sub_parishes": [{
 							"name": "ANGOLEBWAL EAST",
-							"sub_parishes": [{
-								"name": "ANGOLEBWAL EAST",
-								"village": [{
-									"name": "OMORU CENTRAL"
-								}]
+							"village": [{
+								"name": "OMORU CENTRAL"
 							}]
 						}]
 					}]
-				},
-				{
-					"name": "LABWOR COUNTY",
-					"sub_counties": [{
-						"name": "MORULEM TOWN COUNCIL",
-						"parishes": [{
+				}]
+			},
+                            {
+    			"name": "LABWOR COUNTY",
+				"sub_counties": [{
+					"name": "MORULEM TOWN COUNCIL",
+					"parishes": [{
+						"name": "ANGOLEBWAL WEST",
+						"sub_parishes": [{
 							"name": "ANGOLEBWAL WEST",
-							"sub_parishes": [{
-								"name": "ANGOLEBWAL WEST",
-								"village": [{
-									"name": "LELAKEMER"
-								}]
+							"village": [{
+								"name": "LELAKEMER"
 							}]
 						}]
 					}]
-				}
-			],
+				}]
+			}
+            ],
 			"townstatus": "false"
 		},
 		{
@@ -68,65 +70,68 @@
 			"region": "SIRONKO",
 			"size": "3503",
 			"size_units": "sq. kms",
-			"counties": [{
-					"id": "104",
-					"name": "BUDADIRI COUNTY  WEST",
-					"sub_counties": [{
-							"name": "BUWASA",
-							"parishes": [{
-								"name": "BUKIMALI",
-								"sub_parishes": [{
-									"name": "LUSEKE",
-									"village": [{
-										"name": "LUSEKE"
-									}]
-								}]
+			"counties": [
+                {
+				"id": "104",
+				"name": "BUDADIRI COUNTY  WEST",
+				"sub_counties": [
+                    {
+					"name": "BUWASA",
+					"parishes": [{
+						"name": "BUKIMALI",
+						"sub_parishes": [{
+							"name": "LUSEKE",
+							"village": [{
+								"name": "LUSEKE"
 							}]
-						},
-						{
-							"name": "BUGAMBI",
-							"parishes": [{
-								"name": "BUMALUNDA",
-								"sub_parishes": [{
-									"name": "MAJENGA",
-									"village": [{
-										"name": "MAJENGA"
-									}]
-								}]
-							}]
-						}
-					]
+						}]
+					}]
 				},
-				{
-					"id": "104",
-					"name": "BUDADIRI COUNTY  WEST",
-					"sub_counties": [{
-							"name": "BUGUSEGE TOWN COUNCIL",
-							"parishes": [{
-								"name": "BUGUSEGE WARD",
-								"sub_parishes": [{
-									"name": "LUBASO",
-									"village": [{
-										"name": "LUBASO"
-									}]
-								}]
+                {
+    				"name": "BUGAMBI",
+					"parishes": [{
+						"name": "BUMALUNDA",
+						"sub_parishes": [{
+							"name": "MAJENGA",
+							"village": [{
+								"name": "MAJENGA"
 							}]
-						},
-						{
-							"name": "BUGAMBI",
-							"parishes": [{
-								"name": "BUMALUNDA",
-								"sub_parishes": [{
-									"name": "MAJENGA",
-									"village": [{
-										"name": "MAJENGA"
-									}]
-								}]
-							}]
-						}
-					]
+						}]
+					}]
 				}
-			],
+                ]
+			},
+             {
+    			"id": "104",
+				"name": "BUDADIRI COUNTY  WEST",
+				"sub_counties": [
+                    {
+					"name": "BUGUSEGE TOWN COUNCIL",
+					"parishes": [{
+						"name": "BUGUSEGE WARD",
+						"sub_parishes": [{
+							"name": "LUBASO",
+							"village": [{
+								"name": "LUBASO"
+							}]
+						}]
+					}]
+				},
+                {
+    				"name": "BUGAMBI",
+					"parishes": [{
+						"name": "BUMALUNDA",
+						"sub_parishes": [{
+							"name": "MAJENGA",
+							"village": [{
+								"name": "MAJENGA"
+							}]
+						}]
+					}]
+				}
+                ]
+			}
+            ],
 			"townstatus": "false"
 		},
 		{
@@ -138,121 +143,126 @@
 			"counties": [{
 				"id": "095",
 				"name": "AGAGO COUNTY",
-				"sub_counties": [{
-						"name": "LAPONO",
-						"parishes": [{
-								"name": "KAKET",
-								"sub_parishes": [{
-										"name": "KASESE",
-										"village": [{
-											"name": "KASESE"
-										}, {
-											"name": "KARENGA",
-											"village": [{
-													"name": "KARENGA"
-												}
-
-
-											]
-										}]
-									},
-									{
-										"name": "KAKET",
-										"sub_parishes": []
-									}
-								]
-							},
-							{
-								"name": "KAKET",
-								"sub_parishes": [{
-									"name": "KAABONG",
-									"village": [{
-											"name": "KAABONG"
-										}
-
-									]
-								}]
-							},
-							{
-								"name": "KAKET",
-								"sub_parishes": [{
-									"name": "ALUMAR",
-									"village": [{
-											"name": "ALUMAR"
-										}
-
-									]
-								}]
-							},
-							{
-								"name": "KAKET",
-								"sub_parishes": [{
-									"name": "ABILO BOMB",
-									"village": [{
-											"name": "ABILO BOMB"
-										}
-
-									]
-								}]
+				"sub_counties": [
+                    {
+					"name": "LAPONO",
+					"parishes": [
+                        {
+						"name": "KAKET",
+						"sub_parishes": [{
+							"name": "KASESE",
+							"village": [{
+								"name": "KASESE"
+							},{
+    						"name": "KARENGA",
+							"village": [{
+								"name": "KARENGA"
 							}
-						]
+                            
+                            
+                            ]
+						}]
 					},
-					{
-						"name": "WOL",
-						"parishes": [{
-							"name": "MURA",
-							"sub_parishes": [{
-									"name": "JOLO",
-									"village": [{
-											"name": "JOLO"
-										}
-
-									]
-								},
-								{
-									"name": "LABILOKWIL",
-									"village": [{
-											"name": "LABILOKWIL"
-										}
-
-									]
-								},
-								{
-									"name": "LONDON",
-									"village": [{
-											"name": "LONDON"
-										}
-
-									]
-								},
-								{
-									"name": "KABALA JUBA",
-									"village": [{
-											"name": "KABALA JUBA"
-										}
-
-									]
-								},
-								{
-									"name": "GOT-COL",
-									"village": [{
-											"name": "GOT-COL"
-										}
-
-									]
-								},
-								{
-									"name": "AYAGO",
-									"village": [{
-											"name": "AYAGO"
-										}
-
-									]
-								}
-							]
+                      {
+    					"name": "KAKET",
+						"sub_parishes": [
+                            ]
+						}]
+					},
+                    {
+        				"name": "KAKET",
+						"sub_parishes": [{
+							"name": "KAABONG",
+							"village": [{
+								"name": "KAABONG"
+							}
+                            
+                            ]
+						}]
+					},
+                     {
+            			"name": "KAKET",
+						"sub_parishes": [{
+							"name": "ALUMAR",
+							"village": [{
+								"name": "ALUMAR"
+							}
+                            
+                            ]
+						}]
+					},
+                     {
+                		"name": "KAKET",
+						"sub_parishes": [{
+							"name": "ABILO BOMB",
+							"village": [{
+								"name": "ABILO BOMB"
+							}
+                            
+                            ]
 						}]
 					}
-				]
+                    ]
+				},
+                 {
+    				"name": "WOL",
+					"parishes": [
+                        {
+						"name": "MURA",
+						"sub_parishes": [
+                            {
+							"name": "JOLO",
+							"village": [{
+								"name": "JOLO"
+							}
+                            
+                            ]
+						},
+                          {
+    						"name": "LABILOKWIL",
+							"village": [{
+								"name": "LABILOKWIL"
+							}
+                            
+                            ]
+						},
+                        {
+        					"name": "LONDON",
+							"village": [{
+								"name": "LONDON"
+							}
+                            
+                            ]
+						},
+                         {
+            				"name": "KABALA JUBA",
+							"village": [{
+								"name": "KABALA JUBA"
+							}
+                            
+                            ]
+						},
+                         {
+                			"name": "GOT-COL",
+							"village": [{
+								"name": "GOT-COL"
+							}
+                            
+                            ]
+						},
+                        {
+                    		"name": "AYAGO",
+							"village": [{
+								"name": "AYAGO"
+							}
+                            
+                            ]
+						}
+                        ]
+					}
+                    ]
+				}
+                ]
 			}],
 			"townstatus": "false"
 		},
@@ -387,52 +397,53 @@
 				"name": "LUUKA SOUTH COUNTY",
 				"sub_counties": [{
 					"name": "NAWAMPITI",
-					"parishes": [{
-							"name": "NAWANYAGO",
-							"sub_parishes": [{
-								"name": "BUGOBI",
-								"village": [{
-									"name": "BUGOBI"
-								}]
+					"parishes": [
+                        {
+						"name": "NAWANYAGO",
+						"sub_parishes": [{
+							"name": "BUGOBI",
+							"village": [{
+								"name": "BUGOBI"
 							}]
-						},
-						{
+						}]
+					},
+                    {
+    					"name": "BUGOMBA",
+						"sub_parishes": [{
 							"name": "BUGOMBA",
-							"sub_parishes": [{
-								"name": "BUGOMBA",
-								"village": [{
-									"name": "BUGOMBA"
-								}]
+							"village": [{
+								"name": "BUGOMBA"
 							}]
-						},
-						{
-							"name": "BUGOMBA",
-							"sub_parishes": [{
-								"name": "BUWANDA",
-								"village": [{
-									"name": "BUWANDA"
-								}]
+						}]
+					},
+                      {
+        				"name": "BUGOMBA",
+						"sub_parishes": [{
+							"name": "BUWANDA",
+							"village": [{
+								"name": "BUWANDA"
 							}]
-						},
-						{
+						}]
+					},
+                    {
+            			"name": "BUYOOLA",
+						"sub_parishes": [{
 							"name": "BUYOOLA",
-							"sub_parishes": [{
-								"name": "BUYOOLA",
-								"village": [{
-									"name": "BUYOOLA"
-								}]
+							"village": [{
+								"name": "BUYOOLA"
 							}]
-						},
-						{
-							"name": "BUYOOLA",
-							"sub_parishes": [{
-								"name": "IKONIA A",
-								"village": [{
-									"name": "IKONIA A"
-								}]
+						}]
+					},
+                      {
+                		"name": "BUYOOLA",
+						"sub_parishes": [{
+							"name": "IKONIA A",
+							"village": [{
+								"name": "IKONIA A"
 							}]
-						}
-					]
+						}]
+					}
+                    ]
 				}]
 			}],
 			"townstatus": "false"
