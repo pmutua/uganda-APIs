@@ -125,67 +125,53 @@
 				"sub_counties": [{
 						"name": "LAPONO",
 						"parishes": [{
-								"name": "KAKET",
-								"sub_parishes": [{
-										"name": "KASESE",
-										"village": [{
-											"name": "KASESE"
-										}, {
-											"name": "KARENGA",
-											"village": [{
-													"name": "KARENGA"
-												}
-
-
-											]
-										}]
-									},
-									{
-										"name": "KAKET",
-										"sub_parishes": []
-									}
-								]
-							},
-							{
-								"name": "KAKET",
-								"sub_parishes": [{
-									"name": "KAABONG",
-									"village": [{
-											"name": "KAABONG"
-										}
-
-									]
-								}]
-							},
-							{
-								"name": "KAKET",
-								"sub_parishes": [{
+							"name": "KAKET",
+							"sub_parishes": [{
 									"name": "ALUMAR",
 									"village": [{
-											"name": "ALUMAR"
-										}
-
-									]
-								}]
-							},
-							{
-								"name": "KAKET",
-								"sub_parishes": [{
-									"name": "ABILO BOMB",
+										"name": "ALUMAR"
+									}]
+								},
+								{
+									"name": "KAABONG",
 									"village": [{
-											"name": "ABILO BOMB"
-										}
+										"name": "KAABONG"
+									}]
+								},
+								{
+									"name": "KARENGA",
+									"village": [{
+										"name": "KARENGA"
+									}]
+								},
+								{
+									"name": "KASESE",
+									"village": [{
+										"name": "KASESE"
+									}, {
+										"name": "KARENGA",
+										"village": [{
+												"name": "KARENGA"
+											}
 
-									]
-								}]
-							}
-						]
+
+										]
+									}]
+								}
+							]
+						}]
 					},
 					{
 						"name": "WOL",
 						"parishes": [{
 							"name": "MURA",
-							"sub_parishes": [{
+							"sub_parishes": [
+
+
+
+
+
+								{
 									"name": "JOLO",
 									"village": [{
 											"name": "JOLO"
